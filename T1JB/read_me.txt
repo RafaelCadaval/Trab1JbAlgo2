@@ -1,2 +1,4 @@
-Trabalho de Algorítimo
+Trabalho de Algoritimo
 do JB.
+
+Disciplina: AED II
